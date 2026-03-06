@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Spotify Mobile + AdBlocker + Mute
-// @version      2025-11-17.1/
+// @name         Spotify Mobile Alex mod
+// @version      2025-11-17.1.3
 // @description  Mobile-style Spotify layout + blocks all ads + mutes Spotify ads automatically.
 // @author       Anonymous
 // @match        https://open.spotify.com/*
@@ -54,7 +54,7 @@ body { min-width: unset !important; }
 
 [data-testid="now-playing-bar"] {
     min-width: unset !important;
-    height: 196px !important;
+    height: 35dvh !important;
     display: flex !important;
     justify-content: space-between !important;
     width: 100% !important;
@@ -106,6 +106,7 @@ body { min-width: unset !important; }
 
 .nowPlayingFull {
     height: calc(100dvh - 64px) !important;
+    padding-top: 56dvh) !important;
 }
 
 /* кнопка */
