@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Spotify Mobile + AdBlocker + Mute
-// @version      2025-11-17.1/
+// @version      2025-11-17.1.1
 // @description  Mobile-style Spotify layout + blocks all ads + mutes Spotify ads automatically.
 // @author       Anonymous
 // @match        https://open.spotify.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=spotify.com
 // @grant        none
 // @downloadURL https://update.greasyfork.org/scripts/558091/Spotify%20Mobile%20%2B%20AdBlocker%20%2B%20Mute.user.js
-// @updateURL https://update.greasyfork.org/scripts/558091/Spotify%20Mobile%20%2B%20AdBlocker%20%2B%20Mute.meta.js
+// @updateURL   https://raw.githubusercontent.com/Alexey1995200/MobileSpot/refs/heads/main/script.js
 // @updateURLorig https://update.greasyfork.org/scripts/558091/Spotify%20Mobile%20%2B%20AdBlocker%20%2B%20Mute.meta.js
 // ==/UserScript==
 
